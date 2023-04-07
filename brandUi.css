@@ -5,6 +5,7 @@
 /* Import Brand UI files */
 /* Utilities */
 @import url('src/utilities/colors.css'); /* Colors */
+@import url('src/utilities/typography.css'); /* Typography */
 
 * {
     margin: 0;
