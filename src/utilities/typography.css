@@ -67,3 +67,16 @@ h1, .hl-1 { font-size: 48px;}
 .ta-left { text-align: left;}
 .ta-center { text-align: center;}
 .ta-justify { text-align: justify;}
+
+/* TODO - Document this*/
+/* Text decoration */
+.td-none { text-decoration: none;}
+.td-dotted { text-decoration: dotted;}
+.td-dashed { text-decoration: dashed;}
+.td-double { text-decoration: double;}
+.td-crossout { text-decoration: crossout;}
+.td-underline { text-decoration: underline;}
+.td-overline { text-decoration: overline;}
+.td-solid { text-decoration: solid;}
+.td-wavy { text-decoration: wavy;}
+
