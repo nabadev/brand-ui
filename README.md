@@ -4,15 +4,17 @@ Brand UI is a lightweight CSS framework.
 
 > v1.0.0 is coming soon!
 
-## Planned features vor v1.0.0
-**Legende: **
-💡 -> Only an idea
-📝 -> Waiting
-🔨 -> In development
-🔐 -> Blocked
-🗑️ -> Cancled
-✅ -> Ready
-🚀 -> Launched
+## Project development status <span style="color: rgba(168, 168, 168, 0.5); font-style: italic; font-size: .8rem;">V 1.0.0</span>
+
+> #### Legende:
+> 💡 ➡ Only an idea<br>
+> 📝➡ Waiting<br>
+> 🔨➡ In development<br>
+> 🔐➡ Blocked<br>
+> 🗑️➡ Cancled<br>
+> ✅➡ Ready<br>
+> 🚀➡ Launched<br>
+
 
 <details>
   <summary><h2>[🔨] Utilities</h2></summary>
@@ -63,15 +65,15 @@ Brand UI is a lightweight CSS framework.
   [💡] Bootstrap5 Icons [GitHub](https://github.com/twbs/icons) | [Demo](https://icons.getbootstrap.com/)<br>
 </details>
 
-## Documentation
+## 📓 Documentation
 See [Documentation](https://brandui.gitbook.io/brand-ui-docs/) here.
 
-## License
+## 📄 License
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Author
 
-[LinkedIn](https://www.linkedin.com/in/colin-grahm-a79422252/) [Instagram](https://www.instagram.com/colingrahm.dev/) [DEV](https://dev.to/cgwebdev2003) [Behance](https://www.behance.net/colingrahm1)
+[🔗 GitHub](https://www.github.com/CGWebDev2003) | [🔗 LinkedIn](https://www.linkedin.com/in/colin-grahm-a79422252/) | [🔗 Instagram](https://www.instagram.com/colingrahm.dev/) | [🔗 DEV](https://dev.to/cgwebdev2003) | [🔗 Twitter](https://twitter.com/CGWebDev2003) | [🔗 Behance](https://www.behance.net/colingrahm1)
 
 <a href="https://github.com/CGWebDev2003" target="_blank" title="@CGWebDev2003's profile on GitHub">
   <img style=" max-height: 3.5rem; width: auto;" src="https://user-images.githubusercontent.com/122671813/230698709-1c19cf20-d910-4583-91dd-33ad1253ed6f.svg" alt="@CGWebDev2003 Github profile widget" aria-label="@CGWebDev2003's profile on GitHub">
