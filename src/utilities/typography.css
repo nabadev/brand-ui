@@ -1,3 +1,12 @@
+:root {
+    /* Font weight variables */
+    --fat: 900;
+    --bold: 700;
+    --normal: 400;
+    --light: 300;
+    --thin: 100;
+
+}
 
 /* Font sizes */
 p, .text { font-size: 16px;}
@@ -8,3 +17,21 @@ h3, .hl-3 { font-size: 28px;}
 h2, .hl-2 { font-size: 36px;}
 h1, .hl-1 { font-size: 48px;}
 
+/* Font weights */
+/* General classes */
+.fat {font-weight: var(--fat); }
+.bold {font-weight: var(--bold); }
+.normal {font-weight: var(--normal); }
+.light {font-weight: var(--light); }
+.thin {font-weight: var(--thin); }
+
+/* Numbered classes */
+.fw-100 { font-weight: 100;}
+.fw-200 { font-weight: 200;}
+.fw-300 { font-weight: 300;}
+.fw-400 { font-weight: 400;}
+.fw-500 { font-weight: 500;}
+.fw-600 { font-weight: 600;}
+.fw-700 { font-weight: 700;}
+.fw-800 { font-weight: 800;}
+.fw-900 { font-weight: 900;}
