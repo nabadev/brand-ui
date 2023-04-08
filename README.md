@@ -18,49 +18,49 @@ Legende
   <summary><h2>Utilities</h2></summary>
    [✅] Colors<br>
    [🔨] Typography<br>
-   [&nbsp;&nbsp;] Cursors<br>
-   [&nbsp;&nbsp;] Devider<br>
-   [&nbsp;&nbsp;] Positions<br>
-   [&nbsp;&nbsp;] Shapes<br>
+   [📝] Cursors<br>
+   [📝] Devider<br>
+   [📝] Positions<br>
+   [📝] Shapes<br>
 </details>
 
 <details>
   <summary><h2>Layout</h2></summary>
-  [&nbsp;&nbsp;] Flexbox<br>
-  [&nbsp;&nbsp;] Grid<br>
-  [&nbsp;&nbsp;] Responsive<br>
+  [📝] Flexbox<br>
+  [📝] Grid<br>
+  [📝] Responsive<br>
 </details>
 
 <details>
   <summary><h2>Elements</h2></summary>
-  [&nbsp;&nbsp;] Header<br>
-  [&nbsp;&nbsp;] Footer<br>
-  [&nbsp;&nbsp;] A few sections<br>
-  [&nbsp;&nbsp;] Forms<br>
+  [📝] Header<br>
+  [📝] Footer<br>
+  [📝] A few sections<br>
+  [📝] Forms<br>
 </details>
 
 <details>
   <summary><h2>Components</h2></summary>
-  [&nbsp;&nbsp;] Buttons<br>
-  [&nbsp;&nbsp;] Tables<br>
-  [&nbsp;&nbsp;] Cards<br>
-  [&nbsp;&nbsp;] Inputs<br>
-  [&nbsp;&nbsp;] Avatars<br>
-  [&nbsp;&nbsp;] Modals<br>
-  [&nbsp;&nbsp;] Toasts<br>
-  [&nbsp;&nbsp;] Badges<br>
-  [&nbsp;&nbsp;] Progressbar<br>
-  [&nbsp;&nbsp;] Tabs<br>
-  [&nbsp;&nbsp;] Tooltips<br>
-  [&nbsp;&nbsp;] Spinner<br>
+  [📝] Buttons<br>
+  [📝] Tables<br>
+  [📝] Cards<br>
+  [📝] Inputs<br>
+  [📝] Avatars<br>
+  [📝] Modals<br>
+  [📝] Toasts<br>
+  [📝] Badges<br>
+  [📝] Progressbar<br>
+  [📝] Tabs<br>
+  [📝] Tooltips<br>
+  [📝] Spinner<br>
 </details>
 
 <details>
   <summary><h2>Extend with other Frameworks/Libs/API</h2></summary>
-  [&nbsp;&nbsp;] Animate.style [GitHub](https://github.com/animate-css/animate.css) | [Demo](https://animate.style/)<br>
-  [&nbsp;&nbsp;] Canvas Confetti [GitHub](https://github.com/catdad/canvas-confetti) | [Demo](https://www.kirilv.com/canvas-confetti/)<br>
-  [&nbsp;&nbsp;] Google Icons [GitHub](https://github.com/google/material-design-icons) | [Demo](https://fonts.google.com/icons)<br>
-  [&nbsp;&nbsp;] Bootstrap5 Icons [GitHub](https://github.com/twbs/icons) | [Demo](https://icons.getbootstrap.com/)<br>
+  [📝] Animate.style [GitHub](https://github.com/animate-css/animate.css) | [Demo](https://animate.style/)<br>
+  [📝] Canvas Confetti [GitHub](https://github.com/catdad/canvas-confetti) | [Demo](https://www.kirilv.com/canvas-confetti/)<br>
+  [📝] Google Icons [GitHub](https://github.com/google/material-design-icons) | [Demo](https://fonts.google.com/icons)<br>
+  [📝] Bootstrap5 Icons [GitHub](https://github.com/twbs/icons) | [Demo](https://icons.getbootstrap.com/)<br>
 </details>
 
 ## Documentation
