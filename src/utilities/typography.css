@@ -44,4 +44,21 @@ h1, .hl-1 { font-size: 48px;}
 .fsl-normal { font-style: normal;}
 .fsl-oblique { font-style: oblique;}
 
+/* TODO - Document this */
+/* Color highlighting */
+/* Highlighted with primary color */
+.hl-primary { 
+    color: var(--primary);
+    font-style: italic;
+}
+
+/* Highlighted with secondary color */
+.hl-secondary { color: var(--light);}
+
+/* Highlighted with accent color */
+.hl-accent { 
+    color: var(--accent);
+    font-style: italic;
+}
+
 
