@@ -19,7 +19,10 @@ Brand UI is a lightweight CSS framework.
 <details>
   <summary><h2>[🔨] Utilities <span style="color: #4db2ff80; font-style: italic; font-size: .8rem;">In development</span></h2></summary>
    [✅] Colors<br>
-   [🔨] Typography<br>
+   [✅] Typography<br>
+   [🔨] Visibility<br>
+   [📝] Spacing<br>
+   [📝] Borders<br>
    [📝] Cursors<br>
    [📝] Devider<br>
    [📝] Positions<br>
