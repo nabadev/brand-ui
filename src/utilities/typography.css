@@ -17,6 +17,7 @@ h3, .hl-3 { font-size: 28px;}
 h2, .hl-2 { font-size: 36px;}
 h1, .hl-1 { font-size: 48px;}
 
+/* TODO - Document this */
 /* Font weights */
 /* General classes */
 .fat {font-weight: var(--fat); }
@@ -25,6 +26,7 @@ h1, .hl-1 { font-size: 48px;}
 .light {font-weight: var(--light); }
 .thin {font-weight: var(--thin); }
 
+/* TODO - Document this */
 /* Numbered classes */
 .fw-100 { font-weight: 100;}
 .fw-200 { font-weight: 200;}
@@ -35,3 +37,11 @@ h1, .hl-1 { font-size: 48px;}
 .fw-700 { font-weight: 700;}
 .fw-800 { font-weight: 800;}
 .fw-900 { font-weight: 900;}
+
+/* TODO - Document this */
+/* Font styles */
+.fsl-italic, .fsl-cursive { font-style: italic;}
+.fsl-normal { font-style: normal;}
+.fsl-oblique { font-style: oblique;}
+
+
