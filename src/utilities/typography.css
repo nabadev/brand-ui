@@ -61,4 +61,9 @@ h1, .hl-1 { font-size: 48px;}
     font-style: italic;
 }
 
-
+/* TODO - Document this */
+/* Text align */
+.ta-right { text-align: right;}
+.ta-left { text-align: left;}
+.ta-center { text-align: center;}
+.ta-justify { text-align: justify;}
