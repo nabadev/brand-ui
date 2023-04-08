@@ -1,8 +1,8 @@
 /* Import "Lato"-font from Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
 
-/** Import Brand UI files */
-/*? Utilities */
+/* Import Brand UI files */
+/* Utilities */
 @import url('src/utilities/colors.css');        /* Colors */
 @import url('src/utilities/typography.css');    /* Typography */
 @import url('src/utilities/visibility.css');    /* Visibility */
@@ -10,13 +10,6 @@
 @import url('src/utilities/borderRadius.css');  /* Border radius*/
 @import url('src/utilities/boxSizing.css');     /* Box sizing*/
 
-/*? Layout */
-
-
-/*? Components*/
-
-
-/*? Elements */
 
 * {
     margin: 0;

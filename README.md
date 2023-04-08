@@ -35,6 +35,14 @@ Brand UI is a lightweight CSS framework.
 </details>
 
 <details>
+  <summary><h2>[📝] Elements</h2></summary>
+  [📝] Header<br>
+  [📝] Footer<br>
+  [📝] A few sections<br>
+  [📝] Forms<br>
+</details>
+
+<details>
   <summary><h2>[🔨] Components</h2></summary>
   [🔨] Buttons<br>
   [📝] Tables<br>
@@ -48,14 +56,6 @@ Brand UI is a lightweight CSS framework.
   [📝] Tabs<br>
   [📝] Tooltips<br>
   [📝] Spinner<br>
-</details>
-
-<details>
-  <summary><h2>[📝] Elements</h2></summary>
-  [📝] Header<br>
-  [📝] Footer<br>
-  [📝] A few sections<br>
-  [📝] Forms<br>
 </details>
 
 <details>
