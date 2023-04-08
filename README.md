@@ -5,7 +5,7 @@ Brand UI is a lightweight CSS framework.
 > v1.0.0 is coming soon!
 
 ## Planned features vor v1.0.0
-Legende
+**Legende: **
 💡 -> Only an idea
 📝 -> Waiting
 🔨 -> In development
@@ -15,7 +15,7 @@ Legende
 🚀 -> Launched
 
 <details>
-  <summary><h2>Utilities</h2></summary>
+  <summary><h2>[🔨] Utilities</h2></summary>
    [✅] Colors<br>
    [🔨] Typography<br>
    [📝] Cursors<br>
@@ -25,14 +25,14 @@ Legende
 </details>
 
 <details>
-  <summary><h2>Layout</h2></summary>
+  <summary><h2>[📝] Layout</h2></summary>
   [📝] Flexbox<br>
   [📝] Grid<br>
   [📝] Responsive<br>
 </details>
 
 <details>
-  <summary><h2>Elements</h2></summary>
+  <summary><h2>[📝] Elements</h2></summary>
   [📝] Header<br>
   [📝] Footer<br>
   [📝] A few sections<br>
@@ -40,7 +40,7 @@ Legende
 </details>
 
 <details>
-  <summary><h2>Components</h2></summary>
+  <summary><h2>[📝] Components</h2></summary>
   [📝] Buttons<br>
   [📝] Tables<br>
   [📝] Cards<br>
@@ -56,11 +56,11 @@ Legende
 </details>
 
 <details>
-  <summary><h2>Extend with other Frameworks/Libs/API</h2></summary>
-  [📝] Animate.style [GitHub](https://github.com/animate-css/animate.css) | [Demo](https://animate.style/)<br>
-  [📝] Canvas Confetti [GitHub](https://github.com/catdad/canvas-confetti) | [Demo](https://www.kirilv.com/canvas-confetti/)<br>
-  [📝] Google Icons [GitHub](https://github.com/google/material-design-icons) | [Demo](https://fonts.google.com/icons)<br>
-  [📝] Bootstrap5 Icons [GitHub](https://github.com/twbs/icons) | [Demo](https://icons.getbootstrap.com/)<br>
+  <summary><h2>[💡] Extend with other Frameworks/Libs/API</h2></summary>
+  [💡] Animate.style [GitHub](https://github.com/animate-css/animate.css) | [Demo](https://animate.style/)<br>
+  [💡] Canvas Confetti [GitHub](https://github.com/catdad/canvas-confetti) | [Demo](https://www.kirilv.com/canvas-confetti/)<br>
+  [💡] Google Icons [GitHub](https://github.com/google/material-design-icons) | [Demo](https://fonts.google.com/icons)<br>
+  [💡] Bootstrap5 Icons [GitHub](https://github.com/twbs/icons) | [Demo](https://icons.getbootstrap.com/)<br>
 </details>
 
 ## Documentation
