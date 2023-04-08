@@ -3,9 +3,11 @@
 
 /* Import Brand UI files */
 /* Utilities */
-@import url('src/utilities/colors.css'); /* Colors */
-@import url('src/utilities/typography.css'); /* Typography */
-@import url('src/utilities/visibility.css'); /* Visibility */
+@import url('src/utilities/colors.css');        /* Colors */
+@import url('src/utilities/typography.css');    /* Typography */
+@import url('src/utilities/visibility.css');    /* Visibility */
+@import url('src/utilities/spacing.css');       /* Spacing */
+
 
 * {
     margin: 0;
