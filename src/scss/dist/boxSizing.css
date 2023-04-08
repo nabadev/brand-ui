@@ -1,0 +1,8 @@
+/* TODO - Document this*/
+.border-box {
+  box-sizing: border-box;
+}
+
+.content-box {
+  box-sizing: content-box;
+}
