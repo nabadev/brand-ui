@@ -8,6 +8,7 @@
 @import url('src/utilities/visibility.css');    /* Visibility */
 @import url('src/utilities/spacing.css');       /* Spacing */
 @import url('src/utilities/borderRadius.css');  /* Border radius*/
+@import url('src/utilities/boxSizing.css');     /* Box sizing*/
 
 
 * {
