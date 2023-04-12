@@ -17,7 +17,6 @@ h3, .hl-3 { font-size: 28px;}
 h2, .hl-2 { font-size: 36px;}
 h1, .hl-1 { font-size: 48px;}
 
-/* TODO - Document this */
 /* Font weights */
 /* General classes */
 .fat {font-weight: var(--fat); }
@@ -26,7 +25,6 @@ h1, .hl-1 { font-size: 48px;}
 .light {font-weight: var(--light); }
 .thin {font-weight: var(--thin); }
 
-/* TODO - Document this */
 /* Numbered classes */
 .fw-100 { font-weight: 100;}
 .fw-200 { font-weight: 200;}
@@ -38,13 +36,11 @@ h1, .hl-1 { font-size: 48px;}
 .fw-800 { font-weight: 800;}
 .fw-900 { font-weight: 900;}
 
-/* TODO - Document this */
 /* Font styles */
 .fsl-italic, .fsl-cursive { font-style: italic;}
 .fsl-normal { font-style: normal;}
 .fsl-oblique { font-style: oblique;}
 
-/* TODO - Document this */
 /* Color highlighting */
 /* Highlighted with primary color */
 .hl-primary { 
@@ -61,14 +57,12 @@ h1, .hl-1 { font-size: 48px;}
     font-style: italic;
 }
 
-/* TODO - Document this */
 /* Text align */
 .ta-right { text-align: right;}
 .ta-left { text-align: left;}
 .ta-center { text-align: center;}
 .ta-justify { text-align: justify;}
 
-/* TODO - Document this*/
 /* Text decoration */
 .td-none { text-decoration: none;}
 .td-dotted { text-decoration: dotted;}

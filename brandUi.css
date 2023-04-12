@@ -3,13 +3,15 @@
 
 /* Import Brand UI files */
 /* Utilities */
-@import url('src/utilities/colors.css');        /* Colors */
-@import url('src/utilities/typography.css');    /* Typography */
-@import url('src/utilities/visibility.css');    /* Visibility */
-@import url('src/utilities/spacing.css');       /* Spacing */
-@import url('src/utilities/borderRadius.css');  /* Border radius*/
-@import url('src/utilities/boxSizing.css');     /* Box sizing*/
+@import url('./css/utilities/colors.css');        /* Colors */
+@import url('./css/utilities/typography.css');    /* Typography */
+@import url('./css/utilities/visibility.css');    /* Visibility */
+@import url('./css/utilities/spacing.css');       /* Spacing */
+@import url('./css/utilities/borderRadius.css');  /* Border radius*/
+@import url('./css/utilities/boxSizing.css');     /* Box sizing*/
 
+/* Components */
+@import url('./css/components/buttons/buttons.css');
 
 * {
     margin: 0;

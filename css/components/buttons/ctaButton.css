@@ -1,0 +1,5 @@
+
+.cta-button {
+    background-color: var(--accent);
+    color: var(--white) !important;
+}

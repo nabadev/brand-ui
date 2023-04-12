@@ -1,0 +1,30 @@
+@import url('primaryButton.css');
+@import url('secondaryButton.css');
+@import url('ctaButton.css');
+
+button {
+    padding: 16px 32px;
+    border: none;
+    border-radius: var(--global-border-radius);
+    font-size: 16px;
+    font-weight: 600;
+}
+
+button:disabled {
+    filter: brightness(1.1) !important;
+    cursor: not-allowed !important;
+}
+
+button:hover { 
+    transition: .4s ease-in-out;
+    cursor: pointer;
+    filter: brightness(.9);
+}
+
+button:focus {
+    filter: brightness(.7);
+}
+
+button:active {
+    filter: brightness(.8);
+}
