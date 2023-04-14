@@ -69,6 +69,9 @@ Brand UI is a lightweight CSS framework.
 ## 📓 Documentation
 See [Documentation](https://brandui.gitbook.io/brand-ui-docs/) here.
 
+## Contributing
+[See here](https://github.com/brand-ui-framework/brand-ui/blob/main/CONTRIBUTING.md) for contributing
+
 ## 📄 License
 [MIT](https://choosealicense.com/licenses/mit/)
 
