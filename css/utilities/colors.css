@@ -1,12 +1,81 @@
 :root {
-    --white: #ffffff;
-    --light: #d6d6d6;
-    --dark: #333333;
-    --black: #0a0a0a;
     --primary: #ff9a47;
     --accent: #6d1fff;
-    --success: #5bff4d;
-    --info: #4db2ff;
-    --warning: #ffcc4d;
-    --error: #ff4f4d;
+
+    --success: var(--green-500);
+    --info: var(--blue-500);
+    --warning: var(--yellow-500);
+    --error: var(--red-500);
+
+    /* Contrast colors */
+    --white: #ffffff;
+    --white-100: #f2f2f2;
+    --white-300: #e6e6e6;
+    --white-500: #d9d9d9;
+    --white-700: #cccccc;
+    --white-900: #bfbfbf;
+    
+    --black: #000000;
+    --black-100: #1a1a1a;
+    --black-300: #262626;
+    --black-500: #262626;
+    --black-700: #404040;
+    --black-900: #4d4d4d;
+    
+    /* UI colors */
+    --red-100: #fbe2e2;
+    --red-300: #f4b6b6;
+    --red-500: #E65E5E;
+    --red-700: #df3232;
+    --red-900: #c01e1e;
+    --red-1000: #941717;
+    
+    --orange-100: #fbf1e2;
+    --orange-300: #f4dab6;
+    --orange-500: #e6ae5e;
+    --orange-700: #df9832;
+    --orange-900: #c07d1e;
+    --orange-1000: #946117;
+    
+    --yellow-100: #fffad8;
+    --yellow-300: #fff2a5;
+    --yellow-500: #FEE440;
+    --yellow-700: #fedd0d;
+    --yellow-900: #d7ba01;
+    --yellow-1000: #a48e01;
+    
+    --green-100: #e2fbe8;
+    --green-300: #b6f4c3;
+    --green-500: #5EE67B;
+    --green-700: #32df57;
+    --green-900: #1ec040;
+    --green-1000: #179432;
+    
+    --cyan-100: #8ffff0;
+    --cyan-300: #5cffe9;
+    --cyan-500: #00F5D4;
+    --cyan-700: #00c2a8;
+    --cyan-900: #008f7c;
+    --cyan-1000: #005c50;
+    
+    --blue-100: #93e4ff;
+    --blue-300: #60d7ff;
+    --blue-500: #00BBF9;
+    --blue-700: #0095c6;
+    --blue-900: #006e93;
+    --blue-1000: #004860;
+    
+    --pink-100: #fde8f5;
+    --pink-300: #f9b9df;
+    --pink-500: #F15BB5;
+    --pink-700: #ed2ca0;
+    --pink-900: #d41286;
+    --pink-1000: #a50e69;
+    
+    --purple-100: #ece1fa;
+    --purple-300: #d1b5f3;
+    --purple-500: #9B5DE5;
+    --purple-700: #8031de;
+    --purple-900: #671ebe;
+    --purple-1000: #4f1792;
 }
