@@ -75,10 +75,6 @@ See [Documentation](https://brandui.gitbook.io/brand-ui-docs/) here.
 ## Contributors
 
 <div style="width: 100%; height: auto; padding:3rem; display: flex;">
-  <a href="https://github.com/CGWebDev2003" target="_blank">
-    <img style="width: 6rem; padding: 1rem;" src="https://user-images.githubusercontent.com/122671813/232595907-e672ac35-84b8-404d-98d2-36121c37856c.png" alt="CGWebDev2003">
-  </a>
-  
   <a href="https://github.com/nabadev" target="_blank">
     <img style="width: 6rem; padding: 1rem;" src="https://user-images.githubusercontent.com/122671813/232595827-1d004fc0-9687-49fd-9974-5af1ebc0549a.png" alt="nabadev">
   </a>
